@@ -1,2 +1,2 @@
-# SwiftUIManagerArray
-SwiftUIManagerArray is a demo app that show some the swiftui framework capabilities
+# SwiftUIManageArray
+SwiftUIManageArray is a demo app that show some the swiftui framework capabilities
